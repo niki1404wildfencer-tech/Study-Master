@@ -1,0 +1,19 @@
+XSMALL = 5
+SMALL = 8
+
+MEDIUM = 16
+
+LARGE = 24
+
+XLARGE = 42
+
+FIXED_HEIGHT = 68
+# Card Sizes
+CARD_MIN_HEIGHT = 260
+
+# Sidebar
+SIDEBAR_WIDTH = 270
+
+# Icons
+ICON_SIZE = 24
+LARGE_ICON = 30
