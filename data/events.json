@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "title": "MY BIRTHDAY",
+        "date": "2026-09-30",
+        "time": "09:00",
+        "color": "#aaaaff",
+        "details": "",
+        "subject_id": null,
+        "task_id": null,
+        "repeat": "none",
+        "reminders": [
+            {
+                "when": "on_day",
+                "custom_date": null,
+                "hour": 9,
+                "minute": 0,
+                "sound": "Gentle"
+            }
+        ],
+        "created_at": "2026-09-30T09:39:37"
+    },
+    {
+        "id": 2,
+        "title": "MATH EXAM",
+        "date": "2026-10-06",
+        "time": "09:00",
+        "color": "#ff50e8",
+        "details": "",
+        "subject_id": null,
+        "task_id": null,
+        "repeat": "none",
+        "reminders": [
+            {
+                "when": "on_day",
+                "custom_date": null,
+                "hour": 9,
+                "minute": 0,
+                "sound": "Gentle"
+            }
+        ],
+        "created_at": "2026-09-30T09:39:57"
+    },
+    {
+        "id": 3,
+        "title": "BIOLOGY ESSAY(last chance)",
+        "date": "2026-10-16",
+        "time": "09:00",
+        "color": "#c4ffc4",
+        "details": "",
+        "subject_id": null,
+        "task_id": null,
+        "repeat": "none",
+        "reminders": [
+            {
+                "when": "on_day",
+                "custom_date": null,
+                "hour": 9,
+                "minute": 0,
+                "sound": "Gentle"
+            }
+        ],
+        "created_at": "2026-09-30T09:40:52"
+    },
+    {
+        "id": 4,
+        "title": "hi",
+        "date": "2026-09-30",
+        "time": "09:00",
+        "color": "#4F7CFF",
+        "details": "",
+        "subject_id": null,
+        "task_id": null,
+        "repeat": "none",
+        "reminders": [],
+        "created_at": "2026-09-30T13:42:59"
+    }
+]
