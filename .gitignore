@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Virtual Environment
+venv/
+.venv/
+
+# Word temp files
+~$*
+
+# Build
+build/
+dist/
+
+# Windows
+Thumbs.db
+# Personal data
+data/*.json
+
+# Installer output
+installer_output/
+
+# Mistake folder
+%USERPROFILE%/
+
+# VSCode
+.vscode/
